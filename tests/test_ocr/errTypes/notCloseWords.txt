@@ -1,0 +1,1 @@
+{"lit": "lit37", "page": "a0011", "gt_word": "Polarisirbarkeit", "gt_word_bbox": [1596, 2734, 1981, 2777], "tesseract_word": "Polarlurb:ukelt", "tesseract_word_bbox": [1596, 2734, 1980, 2778], "word_accuracy": 0.6666666666666666, "iou_accuracy": 0.9747919003483086, "hitType": "NotCloseHit"}
